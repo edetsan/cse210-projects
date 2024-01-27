@@ -1,3 +1,4 @@
+//For exeeding requirements I added a menu with 3 scriptures to choose from to run the memorizing program
 using System;
 using System.IO;
 
