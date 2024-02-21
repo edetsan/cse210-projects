@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Console.Clear();
+        Console.Clear();
         Address[] addresses =  new Address[2];
         Customer[] customers =  new Customer[2];
         List<Product>[] productsLists = new List<Product>[2];
